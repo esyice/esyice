@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning backend .
 - 💞️ I’m looking to collaborate ..
 - 📫 Reach me - easydryice@gmail.com .
-- ⚡ Fun fact: Iam a gamer .
+- ⚡ Fun fact: I'm a gamer .
 
 <!---
 esyice/esyice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
