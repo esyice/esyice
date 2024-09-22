@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eZice
 - 👀 I’m interested in mern stack .
-- 🌱 I’m currently learning backend .
+- 🌱 I’m currently learning reactjs .
 - 💞️ I’m looking to collaborate ..
 - 📫 Reach me - easydryice@gmail.com .
 - ⚡ Fun fact: I'm a gamer .
